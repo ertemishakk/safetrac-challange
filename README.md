@@ -1,6 +1,6 @@
 # SAFETRAC UX CHALLENGE
 
-# [LIVE DEMO](https://github.com/ertemishakk/safetrac-challange)
+# [LIVE DEMO](https://safetrac.herokuapp.com/)
 
 ## Description
 
